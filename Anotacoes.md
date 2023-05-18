@@ -58,5 +58,52 @@
     Console.WriteLine(serializado);
 
 ```
-## Desserealizar um objeto
+## Deserealizar um objeto
 * Primeiro você deve estudar o conteúdo do arquivo
+* Depois cria uma classe com a mesma estrutura
+* Por ultimo lê o arquivo
+
+```csharp
+    var conteudoArquivo = File.ReadAllText("Arquivos/listaVendas.json");
+    List<Venda> listaVendas = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+    foreach (var venda in listaVendas)
+    {
+        Console.WriteLine($"Id: {venda.Id} Produto: {venda.Produto}");
+    }
+```
+## Atributos
+* Nome_Produto foge da convenção
+```json
+    [
+    {
+        "Id": 1,
+        "Nome_Produto": "Produto 1",
+        "Preco": 10.00,
+        "DataVenda": "2023-05-18T10:21:40.4366255-03:00"
+    },
+    {
+        "Id": 2,
+        "Nome_Produto": "Produto 2",
+        "Preco": 20.00,
+        "DataVenda": "2023-05-18T10:21:40.4366255-03:00"
+    }
+    ]
+```
+* Colocando atributo na classe
+```csharp
+    public class Venda
+    {
+        public Venda(int id, string produto, decimal preco,DateTime dataVenda){
+            Id = id;
+            Produto = produto;
+            Preco = preco;
+            DataVenda = dataVenda;
+        }
+
+        public int Id {get;set;}
+        [JsonProperty("Nome_Produto")]
+        public string Produto {get;set;}
+        public decimal Preco {get; set;}
+        public DateTime DataVenda {get;set;}
+    }
+```
