@@ -17,3 +17,11 @@
 ## Serializacao de dados
 * O processo de serializar consiste em transformar objetos em fluxo de bytes para seu armazenamento ou transmissão.
 * Json: Javascript Notation Object é um formato de texto que segue a sintaxe do Javascript, muito usado para transmitir dados entre aplicações.
+## Serializando um objeto
+```csharp 
+    var venda = new Venda(1,"Produto 1", 10.00M);
+    string serializado  = JsonConvert.SerializeObject(venda,Formatting.Indented);
+    File.WriteAllText("Arquivos/vendas.json",serializado);
+    Console.WriteLine(serializado);
+```
+
