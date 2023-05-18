@@ -1,3 +1,8 @@
+## Git 
+```console
+    git config credential.username hesauhugo
+    git pull --allow-unrelated-histories origin main
+```
 ## Gerenciador de pacotes
 * É um conjunto de códigos úteis, que posibilita compartilhamento e reuso do código.
 ## Nuget
