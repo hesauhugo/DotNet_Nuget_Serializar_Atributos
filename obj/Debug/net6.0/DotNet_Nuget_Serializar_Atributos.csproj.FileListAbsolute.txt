@@ -1,0 +1,17 @@
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.AssemblyInfo.cs
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.exe
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.deps.json
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.runtimeconfig.json
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.dll
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.pdb
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.csproj.CopyComplete
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.dll
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\refint\DotNet_Nuget_Serializar_Atributos.dll
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.pdb
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\DotNet_Nuget_Serializar_Atributos.genruntimeconfig.cache
+G:\Meu Drive\.Net\DotNet_Nuget_Serializar_Atributos\obj\Debug\net6.0\ref\DotNet_Nuget_Serializar_Atributos.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGcOP0g6fkBeSU9d3FVbpt8GVp5gIxhVedN/qAAJ1TOpqpDWOJkkjQ8c680dXViXrC9CzBywl9bZkd0hx/0cBw==",
+  "success": true,
+  "projectFilePath": "G:\\Meu Drive\\.Net\\DotNet_Nuget_Serializar_Atributos\\DotNet_Nuget_Serializar_Atributos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
