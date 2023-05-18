@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Produto 1",
-    "Preco": 10.00
+    "Preco": 10.00,
+    "DataVenda": "2023-05-18T10:21:40.4366255-03:00"
   },
   {
     "Id": 2,
     "Produto": "Produto 2",
-    "Preco": 20.00
+    "Preco": 20.00,
+    "DataVenda": "2023-05-18T10:21:40.4366255-03:00"
   }
 ]

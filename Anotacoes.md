@@ -42,3 +42,4 @@
 * <a href="https://codebeautify.org/jsonviewer">Code Beautify</a>
 * espaços  aumentam o tamanho do arquivo
 ## Datatime
+* Csharp representa o padrão ISO 8601
