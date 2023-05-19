@@ -107,3 +107,8 @@
         public DateTime DataVenda {get;set;}
     }
 ```
+## Referências
+1. .[https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/serialization/]
+2. .[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON]
+3. .[https://docs.microsoft.com/pt-br/nuget/what-is-nuget]
+4. .[https://codebeautify.org/jsonviewer]
